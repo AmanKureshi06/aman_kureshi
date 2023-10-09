@@ -1,3 +1,4 @@
+<!-- SEO Optimize - www.patelarsh.com -->
 User-agent:*
 Allow:/scripts/ 
 Allow:/index.html/
