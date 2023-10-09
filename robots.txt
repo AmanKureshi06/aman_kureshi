@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/scripts/ 
+Allow:/index.html/
+Allow:/inner-page.html/
+Allow:/portfolio-details.html/
+
+Disallow: /database/
+
+sitemap:https://amankureshi.com/sitemap.xml/
