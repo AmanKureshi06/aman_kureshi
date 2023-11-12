@@ -47,7 +47,15 @@ h6 {
 
 .back-to-top:hover {
   background: #149ddd;
-  color: #2d2e32;
+  color: #fff;
+}
+
+#arrow-up {
+  transition: color 0.1s ease; /* Adjust the duration and easing function to your preference */
+}
+
+#arrow-up:hover {
+  color: #2d2e32; /* Change this to the desired hover color */
 }
 
 .back-to-top.active {
